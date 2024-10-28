@@ -364,6 +364,7 @@ a {
   border-radius: 15px;
   border: 1px solid var(--input-border-color);
   color: var(--secondary-color);
+  background: var(--white);
 }
 
 .search-form {
